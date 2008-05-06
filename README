@@ -1,0 +1,24 @@
+= rrrcov aka Rcov on Ruby on Rails
+
+Rcov on Ruby on Rails is a Rake task which accurately reports code coverage 
+for a typical Ruby on Rails project.
+
+ 1. Install rcov from http://eigenclass.org/hiki/rcov
+ 
+ 2. Install rrrcov from Subversion http://svn.openrain.com/rails/rrrcov
+
+ 3. To test like a pirate, run rake test:rcov
+
+== Resources
+
+OpenRain, LLC
+
+* http://www.openrain.com
+
+Marc Chung 
+
+* http://www.marcchung.com
+
+== Author
+
+* Marc Chung - marc [dot] chung [at] openrain [dot] com
